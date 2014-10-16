@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "jquery": ">=1.6"
+  },
+  "version": "0.0.1",
+  "download": "https:\/\/github.com\/sandinmyjoints\/hasAttrLike\/releases",
+  "homepage": "https:\/\/github.com\/sandinmyjoints\/hasAttrLike",
+  "bugs": "https:\/\/github.com\/sandinmyjoints\/hasAttrLike\/issues",
+  "licenses": [
+    {
+      "url": "http:\/\/www.opensource.org\/licenses\/MIT",
+      "type": "MIT"
+    }
+  ],
+  "author": {
+    "email": "william.bert@gmail.com",
+    "name": "William Bert"
+  },
+  "keywords": [
+    "attribute",
+    "select",
+    "pattern",
+    "regex",
+    "regexp",
+    "search",
+    "class"
+  ],
+  "description": "Select elements by testing each value of each element's attribute attr for pattern.",
+  "title": "hasAttrLike",
+  "name": "hasAttrLike"
+}
