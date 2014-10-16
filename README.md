@@ -3,6 +3,8 @@ hasAttrLike
 
 Select elements by testing each value of each element's attribute `attr` for `pattern`.
 
+Example
+-------
 
 ```html
 <div class="foobar foobaz"></div>
