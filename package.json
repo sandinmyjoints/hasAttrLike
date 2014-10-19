@@ -1,0 +1,32 @@
+{
+  "name": "jquery-has-attr-like",
+  "version": "0.0.1",
+  "description": "Select DOM elements by testing attribute values with regexes.",
+  "main": "jquery.hasAttrLike.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sandinmyjoints/hasAttrLike.git"
+  },
+  "peerDependencies": {
+    "jquery": "~1.6.0"
+  },
+  "keywords": [
+    "jquery",
+    "attribute",
+    "regex",
+    "regexp",
+    "dom",
+    "element",
+    "search",
+    "select"
+  ],
+  "author": "William Bert",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sandinmyjoints/hasAttrLike/issues"
+  },
+  "homepage": "https://github.com/sandinmyjoints/hasAttrLike"
+}
