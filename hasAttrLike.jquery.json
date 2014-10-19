@@ -25,7 +25,7 @@
     "search",
     "class"
   ],
-  "description": "Select elements by testing each value of each element's attribute attr for pattern.",
+  "description": "Select DOM elements by testing attribute values with regexes.",
   "title": "hasAttrLike",
   "name": "hasAttrLike"
 }
