@@ -1,6 +1,6 @@
 {
   "name": "jquery-has-attr-like",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "Select DOM elements by testing attribute values with regexes.",
   "main": "jquery.hasAttrLike.js",
   "scripts": {
