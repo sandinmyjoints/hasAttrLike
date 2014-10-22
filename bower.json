@@ -1,7 +1,7 @@
 {
   "name": "jquery-has-attr-like",
   "version": "0.0.1",
-  "homepage": "https://github.com/sandinmyjoints/hasAttrLike",
+  "homepage": "https://github.com/sandinmyjoints/jquery-has-attr-like",
   "authors": [
     "William Bert <william.bert@gmail.com>"
   ],
@@ -16,8 +16,11 @@
     "element",
     "regex",
     "regexp",
+    "pattern",
     "search",
     "jquery"
+    "hasClassLike",
+    "hasAttrLike"
   ],
   "license": "MIT",
   "ignore": [

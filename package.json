@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/sandinmyjoints/hasAttrLike.git"
+    "url": "https://github.com/sandinmyjoints/jquery-has-attr-like.git"
   },
   "peerDependencies": {
     "jquery": "~1.6.0"
@@ -20,13 +20,16 @@
     "regexp",
     "dom",
     "element",
+    "pattern",
     "search",
-    "select"
+    "select",
+    "hasClassLike",
+    "hasAttrLike"
   ],
   "author": "William Bert",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sandinmyjoints/hasAttrLike/issues"
+    "url": "https://github.com/sandinmyjoints/jquery-has-attr-like/issues"
   },
-  "homepage": "https://github.com/sandinmyjoints/hasAttrLike"
+  "homepage": "https://github.com/sandinmyjoints/jquery-has-attr-like"
 }
